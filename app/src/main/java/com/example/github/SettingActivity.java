@@ -16,4 +16,7 @@ public class SettingActivity extends AppCompatActivity {
     public void method(){
         Toast.makeText(this, "Hello", Toast.LENGTH_SHORT).show();
     }
+    public void newCommit(){
+        
+    }
 }
